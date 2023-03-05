@@ -16,7 +16,7 @@
 
 ![3x3solved](3x3.png)
 
-*The 3x3 solved can move two squares in any way. He can't take.*
+*The 3x3 solved can move two squares in any way. It can't take.*
 
 ### Scrambled
 
