@@ -54,16 +54,16 @@
 
 ![skwaligned](skw_aligned.png)
 
-*The skewb can move and can take like the queen in normal chess*
+*The skewb can move and can take like the queen in normal chess.*
 
 ## Square-1
 
 ![sqr1](sqr1.png)
 
-*The square-1 can move like the queen in normal chess but every other square, can pass over the allied pawns. It takes as it moves*
+*The square-1 can move like the queen in normal chess but every other square, can pass over the allied pawns. It takes as it moves.*
 
 ## Megaminx
 
 ![mega](mega.png)
 
-*The megaminx can copy the moves of the allied pawns around it*
+*The megaminx can copy the moves of the allied pawns around it. **It can't move by itself.***
