@@ -26,7 +26,7 @@
 
 ![3x3sdel](3x3s_del.png)
 
-*The 3x3 scrambled can delete any opponent's pawn. When he deletes a pawn, he doesn't move.*
+*The 3x3 scrambled can delete any opponent's pawn. When it deletes a pawn, it doesn't move.*
 
 ## Clock
 
