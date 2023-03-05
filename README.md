@@ -44,13 +44,13 @@
 
 **The skewb has to states**
 
-### Not aligned with the allied skewb
+### Not diagonally aligned with the allied skewb
 
 ![skwnaligned](skw_not_aligned.png)
 
 *The skewb can move like the king. It takes like the knight in normal chess.*
 
-### Aligned with the allied skewb
+### Diagonally aligned with the allied skewb
 
 ![skwaligned](skw_aligned.png)
 
