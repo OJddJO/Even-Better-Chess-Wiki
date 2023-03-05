@@ -1,6 +1,6 @@
 # Even Better Chess
 
-*Game made by myself, with the ideas of my friend*
+*Game made by myself, with the ideas of my friends*
 
 ## 2x2
 
