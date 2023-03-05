@@ -1,5 +1,7 @@
 # Even Better Chess
 
+*Game made by myself*
+
 ## 2x2
 
 ![2x2](2x2.png)
