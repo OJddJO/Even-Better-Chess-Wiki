@@ -66,4 +66,4 @@
 
 ![mega](mega.png)
 
-*The megaminx can copy the moves of the allied pawns around it. **It can't move by itself.***
+*The megaminx can copy the moves of the allied piece around it. **It can't move by itself.***
