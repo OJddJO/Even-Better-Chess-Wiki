@@ -60,7 +60,7 @@
 
 ![sqr1](sqr1.png)
 
-*The square-1 can move like the queen in normal chess but every other square, can pass over the allied pawns. It takes as it moves.*
+*The square-1 can move like the queen in normal chess but every other square, can pass over the allied piece. It takes as it moves.*
 
 ## Megaminx
 
