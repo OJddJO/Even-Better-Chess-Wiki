@@ -42,7 +42,7 @@
 
 ## Skewb
 
-**The skewb has to states**
+**The skewb has two states**
 
 ### Not Paired (Not diagonally aligned with the allied skewb)
 
